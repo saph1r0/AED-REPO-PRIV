@@ -2,7 +2,8 @@
 #include <stdlib.h>   
 
 //PROB 1
-/*int main() {
+///*
+int main() {
     int n;
     printf("Ingrese número: ");
     scanf("%d", &n);
@@ -21,10 +22,11 @@
     }
     return 0;
 }
-*/
+//*/
 
 //PROB 2
-/*void capicua(int num) {
+///*
+void capicua(int num) {
     int normal=num;
     int invert=0;
     while(num>0) {
@@ -43,11 +45,13 @@ int main() {
     scanf("%d", &num);
     capicua(num);
     return 0;
-}*/
+}
+//*/
 
 //PROB 3
  /*si es posible usando solo suma y resta, aunque tambien es posible hacinedo lo mismo con punteros*/
- /*int main() {
+ ///*
+ int main() {
     int a=3;
     int b=8;
     a=a+b;
@@ -55,11 +59,12 @@ int main() {
     a=a-b;
     printf("a= %d\n",a);printf("b= %d\n",b);
     return 0;
- }*/
+ }
+ //*/
 
  //PROB 4
 
-/*
+///*
 int main() {
     int op;
     float num1, num2, r;
@@ -108,7 +113,7 @@ int main() {
 
     return 0;
 }
-*/
+//*/
 
 //PROB 5
 /*
